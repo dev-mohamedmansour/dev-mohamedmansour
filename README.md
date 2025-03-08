@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<img  align="center" 
-src="https://skillicons.dev/icons?i=linkedin" alt="" height="40" width="40">
-<a href="[https://www.linkedin.com/in/mohamed-el-gebaly-18a40a299/](https://www.linkedin.com/in/mohamed-el-gebaly-18a40a299/)" target="blank"></a>
+
+<a href="https://www.linkedin.com/in/mohamed-el-gebaly-18a40a299/" target="blank"><img align="center" 
+src="https://skillicons.dev/icons?i=linkedin" alt="" height="40" width="40" /></a>
 </p>
 
 ### SKILLS
