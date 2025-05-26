@@ -82,7 +82,7 @@ I'm excited and eager to leverage my skills and extensive experience to contribu
 </p>
 <br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Status</b>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Status</b>
 
 
 <p align="center">
